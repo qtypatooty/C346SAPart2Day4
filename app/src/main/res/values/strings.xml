@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C346SA Part 2 - Day 4</string>
+    <string-array name="spinner">
+        <item>Add a new product</item>
+        <item>Update a product</item>
+        <item>Delete a product</item>
+    </string-array>
+</resources>
